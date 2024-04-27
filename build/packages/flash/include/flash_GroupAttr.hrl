@@ -1,0 +1,1 @@
+-record(group_attr, {key :: binary(), value :: list(flash:attr())}).

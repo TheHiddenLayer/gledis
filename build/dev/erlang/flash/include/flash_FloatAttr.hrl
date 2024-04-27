@@ -1,0 +1,1 @@
+-record(float_attr, {key :: binary(), value :: float()}).

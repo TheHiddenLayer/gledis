@@ -1,0 +1,1 @@
+-record(string_attr, {key :: binary(), value :: binary()}).
