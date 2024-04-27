@@ -1,1 +1,0 @@
--record(int_attr, {key :: binary(), value :: integer()}).

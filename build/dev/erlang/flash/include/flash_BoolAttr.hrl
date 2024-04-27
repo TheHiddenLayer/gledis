@@ -1,1 +1,0 @@
--record(bool_attr, {key :: binary(), value :: boolean()}).
